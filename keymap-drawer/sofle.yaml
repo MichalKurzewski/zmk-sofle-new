@@ -62,8 +62,8 @@ layers:
   - {t: '$$mdi:keyboard-return$$', type: enter}
   - $$mdi:keyboard-space$$
   - {t: '$$mdi:backspace$$', type: backspace}
-  - $$mdi:apple-keyboard-option$$
   - $$mdi:backspace-reverse-outline$$
+  - $$mdi:apple-keyboard-option$$
   - {t: ']', s: '}'}
   layer1:
   - {t: '`', s: '~'}
@@ -116,7 +116,7 @@ layers:
   - RGB BRD
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '$$mdi:transfer$$', type: trans}
+  - {t: \, s: '|'}
   - END
   - $$mdi:volume-off$$
   - {t: '$$mdi:transfer$$', type: trans}
